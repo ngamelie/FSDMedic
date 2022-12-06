@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/d287c9a4-c5ee-44a5-ac6e-70306a4eebd7/AppServices/subscriptions/d287c9a4-c5ee-44a5-ac6e-70306a4eebd7/resourceGroups/MedicFE/providers/Microsoft.Web/sites/MedicFE",
+  "appService.deploySubpath": "React\\fsd-medic\\build"
+}

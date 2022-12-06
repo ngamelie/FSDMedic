@@ -1,0 +1,21 @@
+#mainAdmin {
+  margin-top: 100px;
+  transition: all 0.3s;
+  background: #f6f9ff;
+  height:auto;
+}
+ 
+
+@media (max-width: 1199px) {
+  #mainAdmin {
+    padding: 20px;
+  }
+}
+@media (min-width: 1200px) {
+
+  #mainAdmin
+  {
+    margin-left: 300px;
+  }
+}
+

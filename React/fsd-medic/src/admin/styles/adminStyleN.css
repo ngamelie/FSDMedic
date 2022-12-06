@@ -1,0 +1,17 @@
+.btncustom {
+  width: fit-content;
+  margin: 20px 10px 10px 10px;
+}
+
+.search {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 20px 10px 10px 10px;
+}
+
+.search input {
+  width: 250px;
+  height: 35px;
+  margin-left: 10px;
+}

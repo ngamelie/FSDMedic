@@ -1,0 +1,92 @@
+/*=======================
+ 	Login and sign up
+====================== */
+#content {
+   width: 100%;
+   height: 90vh;
+   background: url("../../../public/images/bg4.png");
+   background-position: center center;
+   background-attachment: fixed;
+   background-size: cover;  
+   display: flex;
+   justify-content: center;
+   align-items: center;   
+}
+
+.auth-box {
+   margin: 0 auto;
+	text-align: center;
+   opacity: .8;
+}
+
+.account-box-shadow {
+	border-radius: 0;
+	border: 0;
+	box-shadow: 0 0 0 1px #dce3ec, 0 8px 16px 0 #dce3ec;
+	background: #fff;
+	margin-top: 20px;
+}
+
+.auth-box .account-box-shadow {
+	padding: 20px;
+}
+
+.account-title {
+	font-size: 22px;
+   padding: .5rem;
+   margin-bottom: 15px;
+   color: #1977cc;
+   border-bottom: 1px solid #eeeeee;
+}
+
+.form-group {
+   margin-bottom: 1.5rem;
+}
+
+.form-control {
+  border-color: #E7F3ED;
+}
+
+input.form-control {
+  padding: .5rem .75rem;
+}
+
+input.form-control:focus,
+select.form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  outline: 0;
+  box-shadow: none;
+}
+
+.auth-box .form-control {
+	background: #efefef;
+	padding: 14px;
+	border-radius: 0px;
+	border: 1px solid #efefef;
+}
+
+.btn {
+  width: 100%;
+	margin-bottom: 5px;	
+	font-size: 15px;
+   letter-spacing: 1px;
+}
+
+button:focus {
+    outline: none;
+    box-shadow: none !important;
+}
+
+.button-btn-block {
+	margin-top: 10px;
+}
+
+.auth-footer-text {
+	margin-top: 20px;
+}
+
+.auth-footer-text a {
+	color: #007bff;
+   display: inline;
+}
